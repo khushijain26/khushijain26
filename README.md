@@ -1,13 +1,13 @@
 ### Hi there 👋
  I am Khushi Jain, MS in Computer Science graduate from New Jersey Institute of Technology, looking for full-time opportunities. I'm highly skilled with JavaScript and React, worked on Full-stack projects and contributed to open-source codes. I'm a self-starter looking for opportunities to master my skills. 
 
+Connect with me :  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushijain26/)
  ### Glad to see you here!
  
 - 🛠 Currently, mastyering my web dev skills !
 - 🚀 [Portfolio Website](https://khushijain.netlify.app)
 - 📰 Love to read books and blogs.
 - ⚡ Fun Fact: I checkmate bugs in my code like I check kings in chess 🤓
- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushijain26/)
 ### 🌟 Technologies I've worked with:
 
 - React
