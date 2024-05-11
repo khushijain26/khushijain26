@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79FD1&random=false&width=435&lines=I'm+Khushi+Jain)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=450&size=30&pause=500&color=F79FD1&multiline=true&random=true&width=435&lines=I'm+Khushi+Jain)](https://git.io/typing-svg)
 MS in Computer Science graduate from New Jersey Institute of Technology, looking for full-time opportunities. I'm highly skilled with JavaScript and React, worked on Full-stack projects and contributed to open-source codes. I'm a self-starter looking for opportunities to master my skills. 
 
 Connect with me : 
