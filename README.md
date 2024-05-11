@@ -35,7 +35,7 @@ Connect with me :
 <a href="#"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-orange?style=for-the-badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Next.js-pink?style=for-the-badge"/></a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
+<a href="#"><img src="https://img.shields.io/badge/React-blue"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-red?style=for-the-badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge"/></a>
