@@ -11,7 +11,8 @@ Connect with me :
 - 🚀 [Portfolio Website](https://khushijain.netlify.app)
 - 📰 Love to read books and blogs.
 - ⚡ Fun Fact: I checkmate bugs in my code like I check kings in chess 🤓
-### 🌟 Technologies I've worked with:
+- 💻 I can code & dance at the same time
+### Technologies I'm working with:
 
 - React
 - Node.js
@@ -22,7 +23,7 @@ Connect with me :
 - Tailwind.css
 
 <p align="left">
- <a href="#"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
+ <a href="#"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/></a>
