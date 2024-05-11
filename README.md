@@ -4,7 +4,8 @@
 Connect with me : 
 
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushijain26/)
- 
+ <img src="https://profile-counter.glitch.me/Singh-Aryan/count.svg">
+
  ## Glad to see you here!
  
 - 🛠 Currently, mastering my web dev skills !
