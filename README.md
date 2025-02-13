@@ -8,17 +8,28 @@ MS in Computer Science graduate from New Jersey Institute of Technology, looking
  
 - 🛠 Currently, mastering my web dev skills !
 - 📰 Love to read books and blogs.
-- ⚡ Fun Fact: I checkmate bugs in my code like I check kings in chess 🤓
-- 💻 I can code & dance at the same time
+
 ### Technologies I'm working with:
 
 - React
+- Angular
 - Node.js
 - Vue
 - Next.js
+- .NET
 - MongoDB
 - PostGreSQL
 - Tailwind.css
+- AWS
+- Spring Boot
+- Python
+- Flask
+- Django
+- Kubernetes
+- Jenkins
+- Terraform
+- Maven
+- SQL Server
 
 <p align="left">
  <a href="#"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge"/></a>
