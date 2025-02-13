@@ -7,7 +7,6 @@ MS in Computer Science graduate from New Jersey Institute of Technology, looking
  ## Glad to see you here!
  
 - 🛠 Currently, mastering my web dev skills !
-- 🚀 [Portfolio Website](https://khushijain.netlify.app)
 - 📰 Love to read books and blogs.
 - ⚡ Fun Fact: I checkmate bugs in my code like I check kings in chess 🤓
 - 💻 I can code & dance at the same time
